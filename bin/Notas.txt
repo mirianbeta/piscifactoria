@@ -1,0 +1,17 @@
+Peces de Río:
+- Tilapia del Nilo BÁSICO (filtrador)
+- Pejerrey  BÁSICO (carnívoro)
+- Perca Europea INVERSIÓN (carnívoro, activo)
+- Salmón chinook NORMAL (carnívoro)
+- Carpín tres espinas BÁSICO (omnívoro, comedido)
+
+Peces de Mar:
+- Róbalo NORMAL (carnívoro)
+- Lubina rayada INVERSIÓN (carnívoro)
+- Arenque del Atlántico BÁSICO (filtrador)
+- Caballa BÁSICO (carnívoro)
+- Abadejo NORMAL (omnívoro)
+
+Doble:
+- Salmón Atlántico INVERSIÓN (carnívoro)
+- Dorada NORMAL (omnívoro)
